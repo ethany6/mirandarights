@@ -6,6 +6,6 @@ lua54 'yes'
 
 name 'mirandarights'
 author 'gc_ethany'
-version '0.1'
+version '0.2'
 repository 'https://github.com/ethany6/mirandarights'
 description 'mirandarights'
