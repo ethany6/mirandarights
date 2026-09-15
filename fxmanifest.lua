@@ -1,0 +1,11 @@
+fx_version 'cerulean'
+game 'gta5'
+use_experimental_fxv2_oal 'yes'
+nui_callback_strict_mode 'true'
+lua54 'yes'
+
+name 'mirandarights'
+author 'gc_ethany'
+version '0.1'
+repository 'https://github.com/ethany6/mirandarights'
+description 'mirandarights'
