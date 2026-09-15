@@ -1,0 +1,3 @@
+# Private department logos and other local-only UI assets
+ui/assets/*
+!ui/assets/.gitkeep
